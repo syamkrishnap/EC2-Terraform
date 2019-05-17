@@ -3,3 +3,4 @@
 terraform.tfvars
 devops
 devops.pub
+.gitignore
